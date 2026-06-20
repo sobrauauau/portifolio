@@ -1,19 +1,31 @@
-# Portifolio Pessoal de Apresentação
-👋 Olá, eu sou o Mateus
+# Portfólio - Mateus Sobral
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de suporte técnico, com foco em resolução de problemas, atendimento ao cliente e implantação de sistemas.
+Portfólio desenvolvido utilizando HTML, CSS, JavaScript e Bootstrap.
 
-Tenho interesse em tecnologia, dados e desenvolvimento de software, e estou em constante evolução na área de programação.
+## Tecnologias
 
-🚀 Conhecimentos
-💻 C (nível intermediário)
-☕ Java (em aprendizado)
-🗄️ SQL (básico)
-🌐 HTML, CSS e JavaScript (básico)
-🎯 Objetivo
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
 
-Estou em busca de crescimento na área de tecnologia, desenvolvendo minhas habilidades técnicas e construindo uma carreira sólida em desenvolvimento de sistemas e suporte a aplicações.
+## Projetos
 
-📚 Sempre aprendendo
+### Sistema Bancário em Java
 
-Gosto de aprender novas tecnologias, melhorar minhas práticas de programação e evoluir tanto na parte técnica quanto na resolução de problemas do dia a dia.
+Simulação de sistema bancário utilizando Programação Orientada a Objetos.
+
+### Jogo da Forca em C
+
+Jogo da forca com cadastro de palavras, níveis de dificuldade e persistência em arquivo.
+
+## Contato
+
+LinkedIn:
+https://www.linkedin.com/in/mbsobral/
+
+GitHub:
+https://github.com/sobrauauau
+
+Email:
+bergamin2019@outlook.com
