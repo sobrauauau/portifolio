@@ -1,0 +1,129 @@
+:root{
+    --primary:#6c63ff;
+    --dark:#0f172a;
+    --card:#1e293b;
+    --light:#f8fafc;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Segoe UI',sans-serif;
+    background:#0f172a;
+    color:white;
+}
+
+.navbar{
+    background:#111827 !important;
+}
+
+.hero{
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    padding:100px 20px;
+}
+
+.hero h1{
+    font-size:4rem;
+    font-weight:700;
+}
+
+.hero span{
+    color:var(--primary);
+}
+
+.hero p{
+    max-width:800px;
+    margin:auto;
+}
+
+.btn-custom{
+    background:var(--primary);
+    color:white;
+    border:none;
+    padding:12px 30px;
+    border-radius:10px;
+}
+
+.btn-custom:hover{
+    background:#5448ff;
+    color:white;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:50px;
+    font-size:2.5rem;
+    font-weight:bold;
+}
+
+.project-card{
+    background:var(--card);
+    border-radius:15px;
+    padding:30px;
+    height:100%;
+    transition:.3s;
+}
+
+.project-card:hover{
+    transform:translateY(-10px);
+}
+
+.project-card h3{
+    color:var(--primary);
+}
+
+.project-card ul{
+    margin-top:15px;
+}
+
+.project-card li{
+    margin-bottom:10px;
+}
+
+.contact-card{
+    background:var(--card);
+    border-radius:15px;
+    padding:30px;
+    text-align:center;
+}
+
+.contact-card i{
+    font-size:3rem;
+    color:var(--primary);
+}
+
+.contact-card a{
+    color:white;
+    text-decoration:none;
+}
+
+footer{
+    background:#111827;
+    text-align:center;
+    padding:20px;
+    margin-top:80px;
+}
+
+@media(max-width:768px){
+
+.hero h1{
+    font-size:2.5rem;
+}
+
+.hero h3{
+    font-size:1.3rem;
+}
+
+.section-title{
+    font-size:2rem;
+}
+
+}
